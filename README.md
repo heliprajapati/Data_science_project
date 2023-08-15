@@ -1,5 +1,10 @@
 Data Analysis Project README Project Overview This project involves data analysis using Python and the pandas library. The goal of the project is to analyze a dataset containing educational results data from various districts and schools. The dataset is provided in a CSV file named 'UaceResults2011-2015.csv'.
 
+The dataset shows the district and school performance in the Uganda Advanced Certificate of Education (UACE) administered by the Uganda National Examinations Board (UNEB) from 2011 to 2015.
+The performance is indicated as the percentage of candidates who scored in each range of points that include 0-5, 6-10, 11-15, 16-20, 21-25. Gender breakdown is also indicated per school.
+We provide some analysis to try and get a better understanding of the results. The results are listed by school and show the performance in terms of how many students passed in a particular division.
+
+
 The analysis will focus on understanding trends and patterns in student performance, such as percentage distributions in different score ranges, gender-based differences, and overall district performance.
 
 Getting Started Prerequisites To run this project, you will need:
